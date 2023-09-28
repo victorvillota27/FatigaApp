@@ -1,0 +1,2 @@
+# FatigaApp
+Fatiga
